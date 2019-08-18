@@ -1,0 +1,23 @@
+{
+  "name": "koa2-middleware-principel",
+  "version": "1.0.0",
+  "description": "koa2框架的中间件原理简单实现，虽然没有官网封装的那么完美，但是不影响使用，而且逻辑完全是对的。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SongMengyao/koa2-middleware-principel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SongMengyao/koa2-middleware-principel/issues"
+  },
+  "homepage": "https://github.com/SongMengyao/koa2-middleware-principel#readme",
+  "dependencies": {
+    "koa": "^2.7.0"
+  }
+}
